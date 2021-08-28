@@ -177,7 +177,7 @@ def menu():
 
     logo()
     print(" "+p+"[✓] Author     : Dian Rizki Pratama") 
-    print(" [✓] Github     : https://github.com/Dian-RP")
+    print(" [✓] Github     : https://github.com/yanhukumrimba")
     print(" [✓] ---------------------------------------------")
     print(" [✓] ID         : "+id)
     print(" [✓] IP         : "+ip)
